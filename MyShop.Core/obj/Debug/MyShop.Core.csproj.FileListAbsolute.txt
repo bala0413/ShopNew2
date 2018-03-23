@@ -1,0 +1,11 @@
+E:\Balachandran\source\repos\Shop\MyShop\MyShop.Core\bin\Debug\MyShop.Core.dll
+E:\Balachandran\source\repos\Shop\MyShop\MyShop.Core\bin\Debug\MyShop.Core.pdb
+E:\Balachandran\source\repos\Shop\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csprojResolveAssemblyReference.cache
+E:\Balachandran\source\repos\Shop\MyShop\MyShop.Core\obj\Debug\MyShop.Core.dll
+E:\Balachandran\source\repos\Shop\MyShop\MyShop.Core\obj\Debug\MyShop.Core.pdb
+E:\Balachandran\source\repos\ShopNew\MyShop\MyShop.Core\bin\Debug\MyShop.Core.dll
+E:\Balachandran\source\repos\ShopNew\MyShop\MyShop.Core\bin\Debug\MyShop.Core.pdb
+E:\Balachandran\source\repos\ShopNew\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csprojResolveAssemblyReference.cache
+E:\Balachandran\source\repos\ShopNew\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
+E:\Balachandran\source\repos\ShopNew\MyShop\MyShop.Core\obj\Debug\MyShop.Core.dll
+E:\Balachandran\source\repos\ShopNew\MyShop\MyShop.Core\obj\Debug\MyShop.Core.pdb

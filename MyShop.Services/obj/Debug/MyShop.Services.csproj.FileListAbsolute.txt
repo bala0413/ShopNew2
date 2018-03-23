@@ -1,0 +1,5 @@
+E:\Balachandran\source\repos\Shop\MyShop\MyShop.Services\bin\Debug\MyShop.Services.dll
+E:\Balachandran\source\repos\Shop\MyShop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+E:\Balachandran\source\repos\Shop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csprojResolveAssemblyReference.cache
+E:\Balachandran\source\repos\Shop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
+E:\Balachandran\source\repos\Shop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
